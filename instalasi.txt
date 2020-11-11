@@ -1,0 +1,5 @@
+1. Buka phpmyadmin, buat database dengan nama db_pendaftaran_mhs
+2. Buka database tsb
+3. Import file db.sql
+4. cek file koneksi.php
+5. Sesuaikan localhost, user, password dan nama db ( jika belum sesuai )
